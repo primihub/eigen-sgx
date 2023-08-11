@@ -13,7 +13,7 @@ A sample code of how to use Eigen (C++ linear algebra template headers) in Intel
     * `mmintrin.h`  
     * `mm_malloc.h`  
     * `xmmintrin.h`
-4. Download [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) and copy the header templates directory (i.e. `Eigen/`) into `Include/`.
+4. Download [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) and copy the header templates directory (i.e. `Eigen/`) into `Include/`.(The version of Eigen is 3.3.4)
 5. Build the project with the prepared Makefile:
 
     a. Hardware Mode, Debug build:
